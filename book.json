@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "qrcode",
+        "copy-code",
+        "components"
+    ],
+    "title": "xx指南"
+}
